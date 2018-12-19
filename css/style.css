@@ -1,0 +1,23 @@
+.bg-amz {
+  background-color: #232f3e
+}
+
+.text-orange {
+  color: #ff9900
+}
+
+.btn-amz {
+  color: #ff9900;
+  background-color: #232f3e;
+  border-color: #ff9900;
+}
+
+.btn-amz:hover {
+  color: #fff;
+  background-color: #ff9900;
+  border-color: #ff9900;
+}
+
+.btn-amz:focus, .btn-amz.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
